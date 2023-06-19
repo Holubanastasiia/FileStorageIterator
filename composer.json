@@ -1,0 +1,19 @@
+{
+    "name": "anastasiia/file-storage-iterator",
+    "description": "With this service you can read file line by line",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anastasiia\\FileStorageIterator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anastasiia.holubnycha",
+            "email": "anastasiia.holubnycha@cpamatica.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
